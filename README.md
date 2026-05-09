@@ -1,5 +1,5 @@
 # *cascade-dots*
-dotfiles for niri and dank material shell. includes niri, dms, alacritty and fastfetch config files.
+dotfiles for niri and dank material shell. includes niri, dms, alacritty, fastfetch config files and some wallpapers.
 
 ---
 
