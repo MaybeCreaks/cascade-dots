@@ -1,0 +1,45 @@
+{
+  "usbManager": {
+    "enabled": true
+  },
+  "prayerTimes": {
+    "enabled": true,
+    "method": "1",
+    "school": "0",
+    "refreshInterval": "100",
+    "iconOnly": true,
+    "showSeconds": false,
+    "lon": "32.5224943",
+    "lat": "38.0211951",
+    "tuneImsak": "0",
+    "tuneFajr": "18",
+    "tuneSunrise": "7",
+    "tuneDhuhr": "7",
+    "tuneAsr": "3",
+    "tuneMaghrib": "-3",
+    "tuneIsha": "-20",
+    "use12H": false
+  },
+  "sessionPower": {
+    "enabled": true
+  },
+  "dankActions": {
+    "enabled": false
+  },
+  "timeUntil": {
+    "enabled": false
+  },
+  "unifiedTaskbar": {
+    "enabled": false,
+    "compactMode": true,
+    "groupByApp": true
+  },
+  "powerOptions": {
+    "enabled": false,
+    "noTrigger": true,
+    "trigger": ""
+  },
+  "pkgUpdate": {
+    "enabled": true
+  }
+}

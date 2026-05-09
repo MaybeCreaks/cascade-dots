@@ -1,0 +1,61 @@
+window-rule {
+    geometry-corner-radius 12
+    clip-to-geometry true
+}
+window-rule {
+    match app-id="^gdebi-gtk$"
+    open-floating true
+}
+window-rule {
+    match app-id="^org.gnome.Loupe$"
+    open-floating true
+}
+window-rule {
+    match app-id="^DDNet$"
+    open-fullscreen true
+}
+window-rule {
+    match app-id="^Alacritty$"
+    opacity 0.98
+    open-floating true
+}
+window-rule {
+    match app-id="^Blockbench$"
+    open-maximized true
+}
+window-rule {
+    match app-id="^firefox-esr$"
+    open-maximized true
+}
+window-rule {
+    match app-id="^brave-browser$"
+    open-maximized true
+}
+window-rule {
+    match app-id="^org.gnome.Nautilus$"
+    open-floating true
+}
+window-rule {
+    match app-id="^org.quickshell$"
+    open-floating true
+}
+window-rule {
+    match app-id="^org.gnome.TextEditor$"
+    open-floating true
+}
+window-rule {
+    match app-id="^org.gnome.Shotwell$"
+    open-floating true
+}
+window-rule {
+    match app-id="^gimp$"
+    open-maximized true
+}
+window-rule {
+    match app-id="^nemo$"
+    open-floating true
+}
+window-rule {
+    match app-id="^codium$"
+    open-maximized true
+}
