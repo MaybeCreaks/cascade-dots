@@ -1,4 +1,4 @@
-# noiride-dots
+# *cascade-dots*
 dotfiles for niri and dank material shell. includes niri, dms, alacritty and fastfetch config files.
 
 ---
